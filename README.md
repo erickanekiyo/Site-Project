@@ -1,2 +1,2 @@
 # Site-Project
-Practicing building interfaces, interactions, and functional components for a website.
+First build of a website's graphical interface
